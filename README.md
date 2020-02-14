@@ -1,5 +1,5 @@
-# 正大生鲜
+# 酷健体育
 
-We are a platform dedicated to providing online reservations for all kinds of fresh foods. Users can purchase all kinds of fresh food on our platform. Our platform is divided into: “蔬菜”、“水果”、“肉类”、“干杂”. There are 4 major categories. We promise that the freshness of our platform is absolutely fresh and healthy, and the quality is guaranteed.
+我們是一個專門提供各類戶外體育活動預定的平台，我們的宗旨是希望為廣大群眾提供更多有趣、健康的體育活動，使得用戶可以愛上鍛煉，擁有健康身體。我們平台有更多、更豐富、更有趣的體育活動可供選擇，終有一款是您喜歡的。
 
-If you have any questions, please contact the technical email: huynhtuoi19890l@gmail.com, thank you for your support.
+如果您有任何問題請聯繫技術支持郵箱：juao45586621@126.com，感謝您的支持。
